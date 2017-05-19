@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi,
+
+ Dinesh Here, I like MVC framework like YII,Codeignator,Magento and Zend.
